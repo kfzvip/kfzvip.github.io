@@ -3,7 +3,7 @@ title: KF Blog
 SEOTitle: KF Blog | KF Blog
 header-img: img/header.jpg
 email: kfzvip668@gmail.com
-description: "constant effort brings success"
+description: "Constant effort brings success"
 keyword: "KF, KF Blog, kfz, kfzvip, kfzvip668"
 url: "http://kfzvip.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/kfzvip/kfzvip.github.io.git" # you code reposit
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Constant effort brings success"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -21,7 +21,7 @@ RSS: false
 weibo_username:     6996037391
 # zhihu_username:     kfzvip
 github_username:    kfzvip
-# facebook_username:  king.feng.3517
+# facebook_username:  kfzvip
 # jianshu_username:   kfzvip
 # twitter_username:   kfzvip
 
